@@ -1,4 +1,4 @@
-# XSS
+#### XSS
 
 XSS merupakan singkatan yang digunakan untuk istilah cross site scripting. XSS merupakan salah satu jenis serangan injeksi code (code injection attack).
 
